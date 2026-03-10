@@ -9,10 +9,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/upload")
-@CrossOrigin(origins = {
-        "http://localhost:5173",
-        "https://your-vercel-domain.vercel.app"
-})
+@CrossOrigin(origins = "*")
 public class FileUploadController {
 
     private final ResumeSettingsRepository resumeSettingsRepository;
