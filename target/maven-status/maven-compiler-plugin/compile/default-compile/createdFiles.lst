@@ -1,0 +1,15 @@
+com\example\myportfolio\service\ContactService.class
+com\example\myportfolio\entity\Project.class
+com\example\myportfolio\MyportfolioApplication.class
+com\example\myportfolio\controller\FileUploadController.class
+com\example\myportfolio\controller\AdminAuthController.class
+com\example\myportfolio\repository\AdminUserRepository.class
+com\example\myportfolio\config\WebConfig.class
+com\example\myportfolio\controller\ProjectController.class
+com\example\myportfolio\controller\ContactController.class
+com\example\myportfolio\repository\ProjectRepository.class
+com\example\myportfolio\service\AdminAuthService.class
+com\example\myportfolio\entity\AdminUser.class
+com\example\myportfolio\service\ProjectService.class
+com\example\myportfolio\repository\ContactRepository.class
+com\example\myportfolio\entity\Contact.class
